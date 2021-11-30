@@ -20,8 +20,13 @@
 [githublinkcs]: https://github.com/SEOJEEWOONG/TIL/tree/master/Computer%20Science "Go Computer Science"
   
   [동기 비동기 기본][githublinksync]
+  
   [githublinksync]: https://github.com/SEOJEEWOONG/TIL/blob/master/Computer%20Science/%EB%8F%99%EA%B8%B0_%EB%B9%84%EB%8F%99%EA%B8%B0_%EA%B0%9C%EB%85%90.md "Go 동기 비동기 기본"
+  
   [운영체제론][githublinkos]
+  
   [githublinkos]: https://github.com/SEOJEEWOONG/TIL/blob/master/Computer%20Science/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%EB%A1%A0.md "Go 운영체제론"
+  
   [캐시메모리][githublinkcache]
+  
   [githublinkcache]: https://github.com/SEOJEEWOONG/TIL/blob/master/Computer%20Science/%EC%BA%90%EC%8B%9C%EB%A9%94%EB%AA%A8%EB%A6%AC.md "Go 캐시메모리"
