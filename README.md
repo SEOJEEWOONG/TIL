@@ -27,3 +27,8 @@
 [캐시메모리][githublinkcache]
 
 [githublinkcache]: https://github.com/SEOJEEWOONG/TIL/blob/master/Computer%20Science/%EC%BA%90%EC%8B%9C%EB%A9%94%EB%AA%A8%EB%A6%AC.md "Go 캐시메모리"
+### Algorithm
+
+[알고리즘][githublinkalgo]
+
+[githublinkalgo]: https://github.com/SEOJEEWOONG/TIL/blob/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.md"Go 알고리즘"
